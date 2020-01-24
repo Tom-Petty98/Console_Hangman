@@ -1,0 +1,11 @@
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.exe
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.deps.json
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.runtimeconfig.json
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.runtimeconfig.dev.json
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.dll
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\bin\Debug\netcoreapp3.1\Space hangman.pdb
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\obj\Debug\netcoreapp3.1\Space hangman.csprojAssemblyReference.cache
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\obj\Debug\netcoreapp3.1\Space hangman.AssemblyInfoInputs.cache
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\obj\Debug\netcoreapp3.1\Space hangman.AssemblyInfo.cs
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\obj\Debug\netcoreapp3.1\Space hangman.dll
+C:\Users\Tom\Documents\coding\visual studio\Space hangman\Space hangman\Space hangman\obj\Debug\netcoreapp3.1\Space hangman.pdb
